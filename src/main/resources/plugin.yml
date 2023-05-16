@@ -1,0 +1,5 @@
+name: EventsExtendedAPI
+version: '${project.version}'
+main: com.qntcore.minecraft_server.eventsextendedapi.internal.Main
+api-version: 1.13
+authors: [ Antritus ]
